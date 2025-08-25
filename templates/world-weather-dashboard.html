@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>World Weather Dashboard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 2rem;
+      background: #f0f8ff;
+    }
+    h1 {
+      margin-bottom: 2rem;
+    }
+    .weather-grid {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+    }
+    .weather-box {
+      width: 250px;
+      padding: 1rem;
+      border: 1px solid #ccc;
+      background: #fff;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin: 1rem;
+      text-align: left;
+    }
+    .city-name {
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+    .country {
+      color: #555;
+    }
+    .coordinates {
+      font-size: 0.9rem;
+      margin-bottom: 0.5rem;
+    }
+    .condition {
+      font-size: 1rem;
+      font-style: italic;
+      margin-bottom: 0.5rem;
+    }
+    .temp {
+      font-size: 1.5rem;
+      color: #0077b6;
+      margin-bottom: 0.5rem;
+    }
+    .updated {
+      font-size: 0.8rem;
+      color: #888;
+      margin-top: 0.5rem;
+    }
+    hr {
+      margin: 0.5rem 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>🌐 World Weather Dashboard</h1>
+  <div class="weather-grid">
+
+    <!-- Brazil -->
+    <div class="weather-box">
+      <div class="city-name">São Paulo Guarulhos</div>
+      <div class="country">Brazil</div>
+      <div class="coordinates">📍 -23.44°, -46.47°</div>
+      <div class="condition">☁️ Cloudy</div>
+      <div class="temp">🌡️ 28°C</div>
+      <hr />
+      <div><strong>Temperature:</strong> 28°C</div>
+      <div><strong>Humidity:</strong> 72%</div>
+      <div><strong>Pressure:</strong> 1016 hPa</div>
+      <div><strong>Wind:</strong> 12 km/h</div>
+      <div><strong>Visibility:</strong> 15 km</div>
+      <div class="updated">🕒 Updated: 2 min ago</div>
+    </div>
+
+    <!-- USA -->
+    <div class="weather-box">
+      <div class="city-name">New York JFK</div>
+      <div class="country">USA</div>
+      <div class="coordinates">📍 40.64°, -73.78°</div>
+      <div class="condition">☀️ Sunny</div>
+      <div class="temp">🌡️ 26°C</div>
+      <hr />
+      <div><strong>Temperature:</strong> 26°C</div>
+      <div><strong>Humidity:</strong> 60%</div>
+      <div><strong>Pressure:</strong> 1012 hPa</div>
+      <div><strong>Wind:</strong> 10 km/h</div>
+      <div><strong>Visibility:</strong> 16 km</div>
+      <div class="updated">🕒 Updated: 3 min ago</div>
+    </div>
+
+    <!-- Japan -->
+    <div class="weather-box">
+      <div class="city-name">Tokyo Haneda</div>
+      <div class="country">Japan</div>
+      <div class="coordinates">📍 35.55°, 139.78°</div>
+      <div class="condition">🌧️ Rainy</div>
+      <div class="temp">🌡️ 29°C</div>
+      <hr />
+      <div><strong>Temperature:</strong> 29°C</div>
+      <div><strong>Humidity:</strong> 85%</div>
+      <div><strong>Pressure:</strong> 1008 hPa</div>
+      <div><strong>Wind:</strong> 8 km/h</div>
+      <div><strong>Visibility:</strong> 10 km</div>
+      <div class="updated">🕒 Updated: 4 min ago</div>
+    </div>
+
+    <!-- UK -->
+    <div class="weather-box">
+      <div class="city-name">London Heathrow</div>
+      <div class="country">UK</div>
+      <div class="coordinates">📍 51.47°, -0.45°</div>
+      <div class="condition">🌥️ Partly Cloudy</div>
+      <div class="temp">🌡️ 21°C</div>
+      <hr />
+      <div><strong>Temperature:</strong> 21°C</div>
+      <div><strong>Humidity:</strong> 68%</div>
+      <div><strong>Pressure:</strong> 1015 hPa</div>
+      <div><strong>Wind:</strong> 14 km/h</div>
+      <div><strong>Visibility:</strong> 12 km</div>
+      <div class="updated">🕒 Updated: 5 min ago</div>
+    </div>
+
+    <!-- India -->
+    <div class="weather-box">
+      <div class="city-name">Chennai International</div>
+      <div class="country">India</div>
+      <div class="coordinates">📍 12.99°, 80.18°</div>
+      <div class="condition">🔥 Hot</div>
+      <div class="temp">🌡️ 34°C</div>
+      <hr />
+      <div><strong>Temperature:</strong> 34°C</div>
+      <div><strong>Humidity:</strong> 70%</div>
+      <div><strong>Pressure:</strong> 1009 hPa</div>
+      <div><strong>Wind:</strong> 18 km/h</div>
+      <div><strong>Visibility:</strong> 10 km</div>
+      <div class="updated">🕒 Updated: 1 min ago</div>
+    </div>
+
+  </div>
+</body>
+</html>

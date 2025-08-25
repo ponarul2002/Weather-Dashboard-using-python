@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    padding: 2rem;
+    background: linear-gradient(to bottom, #e0f7fa, #f0f8ff);
+  }
+  
+  input, button {
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .weather-box {
+    margin-top: 2rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    background: #fff;
+    display: inline-block;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
