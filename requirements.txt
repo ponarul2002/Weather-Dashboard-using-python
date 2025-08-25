@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Flask==2.3.2
 requests==2.31.0
+=======
+Flask==2.3.2
+requests==2.31.0
+>>>>>>> 2b8aff5549bdbc9daa821b8e613b52d0b7149112
  
