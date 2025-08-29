@@ -1,273 +1,255 @@
-countries,Code,regions
-Afghanistan,AFG,Asia
-Aland Islands,ALA,Europe
-Albania,ALB,Europe
-Algeria,DZA,Africa
-American Samoa,ASM,Oceania
-Andorra,AND,Europe
-Angola,AGO,Africa
-Anguilla,AIA,North America
-Antigua and Barbuda,ATG,North America
-Argentina,ARG,South America
-Armenia,ARM,Asia
-Aruba,ABW,North America
-Australia,AUS,Oceania
-Austria,AUT,Europe
-Austria-Hungary,OWID_AUH,Europe
-Azerbaijan,AZE,Asia
-Bahamas,BHS,North America
-Bahrain,BHR,Asia
-Bangladesh,BGD,Asia
-Barbados,BRB,North America
-Belarus,BLR,Europe
-Belgium,BEL,Europe
-Belize,BLZ,North America
-Benin,BEN,Africa
-Bermuda,BMU,North America
-Bhutan,BTN,Asia
-Bolivia,BOL,South America
-Bonaire Sint Eustatius and Saba,BES,North America
-Bosnia and Herzegovina,BIH,Europe
-Botswana,BWA,Africa
-Brazil,BRA,South America
-British Indian Ocean Territory,IOT,Asia
-British Virgin Islands,VGB,North America
-Brunei,BRN,Asia
-Bulgaria,BGR,Europe
-Burkina Faso,BFA,Africa
-Burundi,BDI,Africa
-Cambodia,KHM,Asia
-Cameroon,CMR,Africa
-Canada,CAN,North America
-Cape Verde,CPV,Africa
-Cayman Islands,CYM,North America
-Central African Republic,CAF,Africa
-Chad,TCD,Africa
-Chile,CHL,South America
-China,CHN,Asia
-Christmas Island,CXR,Asia
-Cocos Islands,CCK,Asia
-Colombia,COL,South America
-Comoros,COM,Africa
-Congo,COG,Africa
-Cook Islands,COK,Oceania
-Costa Rica,CRI,North America
-Cote d'Ivoire,CIV,Africa
-Croatia,HRV,Europe
-Cuba,CUB,North America
-Curacao,CUW,North America
-Cyprus,CYP,Europe
-Czechia,CZE,Europe
-Czechoslovakia,OWID_CZS,Europe
-Democratic Republic of Congo,COD,Africa
-Democratic Republic of Vietnam,,Asia
-Denmark,DNK,Europe
-Djibouti,DJI,Africa
-Dominica,DMA,North America
-Dominican Republic,DOM,North America
-Duchy of Modena and Reggio,,Europe
-Duchy of Parma and Piacenza,,Europe
-East Germany,OWID_GDR,Europe
-East Timor,TLS,Asia
-Ecuador,ECU,South America
-Egypt,EGY,Africa
-El Salvador,SLV,North America
-Equatorial Guinea,GNQ,Africa
-Eritrea,ERI,Africa
-Estonia,EST,Europe
-Eswatini,SWZ,Africa
-Ethiopia,ETH,Africa
-Ethiopia (former),OWID_ERE,Africa
-Falkland Islands,FLK,South America
-Faroe Islands,FRO,Europe
-Federal Republic of Central America,,North America
-Fiji,FJI,Oceania
-Finland,FIN,Europe
-France,FRA,Europe
-French Guiana,GUF,South America
-French Polynesia,PYF,Oceania
-Gabon,GAB,Africa
-Gambia,GMB,Africa
-Georgia,GEO,Asia
-Germany,DEU,Europe
-Ghana,GHA,Africa
-Gibraltar,GIB,Europe
-Grand Duchy of Baden,,Europe
-Grand Duchy of Tuscany,,Europe
-Great Colombia,,South America
-Greece,GRC,Europe
-Greenland,GRL,North America
-Grenada,GRD,North America
-Guadeloupe,GLP,North America
-Guam,GUM,Oceania
-Guatemala,GTM,North America
-Guernsey,GGY,Europe
-Guinea,GIN,Africa
-Guinea-Bissau,GNB,Africa
-Guyana,GUY,South America
-Haiti,HTI,North America
-Honduras,HND,North America
-Hong Kong,HKG,Asia
-Hungary,HUN,Europe
-Iceland,ISL,Europe
-India,IND,Asia
-Indonesia,IDN,Asia
-Iran,IRN,Asia
-Iraq,IRQ,Asia
-Ireland,IRL,Europe
-Isle of Man,IMN,Europe
-Israel,ISR,Asia
-Italy,ITA,Europe
-Jamaica,JAM,North America
-Japan,JPN,Asia
-Jersey,JEY,Europe
-Jordan,JOR,Asia
-Kazakhstan,KAZ,Asia
-Kenya,KEN,Africa
-Kingdom of Bavaria,,Europe
-Kingdom of Sardinia,,Europe
-Kingdom of Saxony,,Europe
-Kingdom of Wurttemberg,,Europe
-Kingdom of the Two Sicilies,,Europe
-Kiribati,KIR,Oceania
-Korea (former),OWID_KRU,Asia
-Kosovo,OWID_KOS,Europe
-Kuwait,KWT,Asia
-Kyrgyzstan,KGZ,Asia
-Laos,LAO,Asia
-Latvia,LVA,Europe
-Lebanon,LBN,Asia
-Lesotho,LSO,Africa
-Liberia,LBR,Africa
-Libya,LBY,Africa
-Liechtenstein,LIE,Europe
-Lithuania,LTU,Europe
-Luxembourg,LUX,Europe
-Macao,MAC,Asia
-Madagascar,MDG,Africa
-Malawi,MWI,Africa
-Malaysia,MYS,Asia
-Maldives,MDV,Asia
-Mali,MLI,Africa
-Malta,MLT,Europe
-Marshall Islands,MHL,Oceania
-Martinique,MTQ,North America
-Mauritania,MRT,Africa
-Mauritius,MUS,Africa
-Mayotte,MYT,Africa
-Mexico,MEX,North America
-Micronesia (country),FSM,Oceania
-Moldova,MDA,Europe
-Monaco,MCO,Europe
-Mongolia,MNG,Asia
-Montenegro,MNE,Europe
-Montserrat,MSR,North America
-Morocco,MAR,Africa
-Mozambique,MOZ,Africa
-Myanmar,MMR,Asia
-Namibia,NAM,Africa
-Nauru,NRU,Oceania
-Nepal,NPL,Asia
-Netherlands,NLD,Europe
-Netherlands Antilles,ANT,North America
-New Caledonia,NCL,Oceania
-New Zealand,NZL,Oceania
-Nicaragua,NIC,North America
-Niger,NER,Africa
-Nigeria,NGA,Africa
-Niue,NIU,Oceania
-Norfolk Island,NFK,Oceania
-North Korea,PRK,Asia
-North Macedonia,MKD,Europe
-Northern Mariana Islands,MNP,Oceania
-Norway,NOR,Europe
-Oman,OMN,Asia
-Orange Free State,,Africa
-Pakistan,PAK,Asia
-Pakistan (former),,Asia
-Palau,PLW,Oceania
-Palestine,PSE,Asia
-Panama,PAN,North America
-Papua New Guinea,PNG,Oceania
-Paraguay,PRY,South America
-Peru,PER,South America
-Philippines,PHL,Asia
-Pitcairn,PCN,Oceania
-Poland,POL,Europe
-Portugal,PRT,Europe
-Puerto Rico,PRI,North America
-Qatar,QAT,Asia
-Republic of Vietnam,OWID_RVN,Asia
-Reunion,REU,Africa
-Romania,ROU,Europe
-Russia,RUS,Europe
-Rwanda,RWA,Africa
-Saint Barthelemy,BLM,North America
-Saint Helena,SHN,Africa
-Saint Kitts and Nevis,KNA,North America
-Saint Lucia,LCA,North America
-Saint Martin (French part),MAF,North America
-Saint Pierre and Miquelon,SPM,North America
-Saint Vincent and the Grenadines,VCT,North America
-Samoa,WSM,Oceania
-San Marino,SMR,Europe
-Sao Tome and Principe,STP,Africa
-Saudi Arabia,SAU,Asia
-Senegal,SEN,Africa
-Serbia,SRB,Europe
-Serbia and Montenegro,OWID_SRM,Europe
-Seychelles,SYC,Africa
-Sierra Leone,SLE,Africa
-Singapore,SGP,Asia
-Sint Maarten (Dutch part),SXM,North America
-Slovakia,SVK,Europe
-Slovenia,SVN,Europe
-Solomon Islands,SLB,Oceania
-Somalia,SOM,Africa
-South Africa,ZAF,Africa
-South Georgia and the South Sandwich Islands,SGS,South America
-South Korea,KOR,Asia
-South Sudan,SSD,Africa
-Spain,ESP,Europe
-Sri Lanka,LKA,Asia
-Sudan,SDN,Africa
-Sudan (former),,Africa
-Suriname,SUR,South America
-Sweden,SWE,Europe
-Switzerland,CHE,Europe
-Syria,SYR,Asia
-Taiwan,TWN,Asia
-Tajikistan,TJK,Asia
-Tanzania,TZA,Africa
-Thailand,THA,Asia
-Togo,TGO,Africa
-Tokelau,TKL,Oceania
-Tonga,TON,Oceania
-Trinidad and Tobago,TTO,North America
-Tunisia,TUN,Africa
-Turkey,TUR,Asia
-Turkmenistan,TKM,Asia
-Turks and Caicos Islands,TCA,North America
-Tuvalu,TUV,Oceania
-USSR,OWID_USS,Europe
-Uganda,UGA,Africa
-Ukraine,UKR,Europe
-United Arab Emirates,ARE,Asia
-United Kingdom,GBR,Europe
-United States,USA,North America
-United States Virgin Islands,VIR,North America
-Uruguay,URY,South America
-Uzbekistan,UZB,Asia
-Vanuatu,VUT,Oceania
-Vatican,VAT,Europe
-Venezuela,VEN,South America
-Vietnam,VNM,Asia
-Wallis and Futuna,WLF,Oceania
-West Germany,OWID_GFR,Europe
-Western Sahara,ESH,Africa
-Yemen,YEM,Asia
-Yemen Arab Republic,OWID_YAR,Asia
-Yemen People's Republic,OWID_YPR,Asia
-Yugoslavia,OWID_YGS,Europe
-Zambia,ZMB,Africa
-Zimbabwe,ZWE,Africa
+Country or Area	Geographical subregion	Continental region
+Algeria	Northern Africa	Africa
+Egypt	Northern Africa	Africa
+Libya	Northern Africa	Africa
+Morocco	Northern Africa	Africa
+Sudan	Northern Africa	Africa
+Tunisia	Northern Africa	Africa
+Western Sahara (disputed)	Northern Africa	Africa
+British Indian Ocean Territory	Eastern Africa	Africa
+Burundi	Eastern Africa	Africa
+Comoros	Eastern Africa	Africa
+Djibouti	Eastern Africa	Africa
+Eritrea	Eastern Africa	Africa
+Ethiopia	Eastern Africa	Africa
+French Southern Territories	Eastern Africa	Africa
+Kenya	Eastern Africa	Africa
+Madagascar	Eastern Africa	Africa
+Malawi	Eastern Africa	Africa
+Mauritius	Eastern Africa	Africa
+Mayotte	Eastern Africa	Africa
+Mozambique	Eastern Africa	Africa
+Réunion	Eastern Africa	Africa
+Rwanda	Eastern Africa	Africa
+Seychelles	Eastern Africa	Africa
+Somalia	Eastern Africa	Africa
+South Sudan	Eastern Africa	Africa
+Uganda	Eastern Africa	Africa
+United Republic of Tanzania	Eastern Africa	Africa
+Zambia	Eastern Africa	Africa
+Zimbabwe	Eastern Africa	Africa
+Angola	Middle Africa	Africa
+Cameroon	Middle Africa	Africa
+Central African Republic	Middle Africa	Africa
+Chad	Middle Africa	Africa
+Congo [Republic of the Congo]	Middle Africa	Africa
+Democratic Republic of the Congo [DR Congo]	Middle Africa	Africa
+Equatorial Guinea	Middle Africa	Africa
+Gabon	Middle Africa	Africa
+Sao Tome and Principe	Middle Africa	Africa
+Botswana	Southern Africa	Africa
+Eswatini [Swaziland]	Southern Africa	Africa
+Lesotho	Southern Africa	Africa
+Namibia	Southern Africa	Africa
+South Africa	Southern Africa	Africa
+Benin	Western Africa	Africa
+Burkina Faso	Western Africa	Africa
+Cabo Verde [Cape Verde]	Western Africa	Africa
+Côte d'Ivoire [Ivory Coast]	Western Africa	Africa
+Gambia	Western Africa	Africa
+Ghana	Western Africa	Africa
+Guinea	Western Africa	Africa
+Guinea-Bissau	Western Africa	Africa
+Liberia	Western Africa	Africa
+Mali	Western Africa	Africa
+Mauritania	Western Africa	Africa
+Niger	Western Africa	Africa
+Nigeria	Western Africa	Africa
+Saint Helena [Saint Helena, Ascension and Tristan da Cunha]	Western Africa	Africa
+Senegal	Western Africa	Africa
+Sierra Leone	Western Africa	Africa
+Togo	Western Africa	Africa
+Anguilla	Caribbean	Americas
+Antigua and Barbuda	Caribbean	Americas
+Aruba	Caribbean	Americas
+Bahamas	Caribbean	Americas
+Barbados	Caribbean	Americas
+Bonaire, Sint Eustatius and Saba [Caribbean Netherlands]	Caribbean	Americas
+British Virgin Islands	Caribbean	Americas
+Cayman Islands	Caribbean	Americas
+Cuba	Caribbean	Americas
+Curaçao	Caribbean	Americas
+Dominica	Caribbean	Americas
+Dominican Republic	Caribbean	Americas
+Grenada	Caribbean	Americas
+Guadeloupe	Caribbean	Americas
+Haiti	Caribbean	Americas
+Jamaica	Caribbean	Americas
+Martinique	Caribbean	Americas
+Montserrat	Caribbean	Americas
+Puerto Rico	Caribbean	Americas
+Saint Barthélemy	Caribbean	Americas
+Saint Kitts and Nevis	Caribbean	Americas
+Saint Lucia	Caribbean	Americas
+Saint Martin (French part)	Caribbean	Americas
+Saint Vincent and the Grenadines	Caribbean	Americas
+Sint Maarten (Dutch part)	Caribbean	Americas
+Trinidad and Tobago	Caribbean	Americas
+Turks and Caicos Islands	Caribbean	Americas
+United States Virgin Islands	Caribbean	Americas
+Belize	Central America	Americas
+Costa Rica	Central America	Americas
+El Salvador	Central America	Americas
+Guatemala	Central America	Americas
+Honduras	Central America	Americas
+Mexico	Central America	Americas
+Nicaragua	Central America	Americas
+Panama	Central America	Americas
+Argentina	South America	Americas
+Bolivia (Plurinational State of)	South America	Americas
+Bouvet Island	South America	Americas
+Brazil	South America	Americas
+Chile	South America	Americas
+Colombia	South America	Americas
+Ecuador	South America	Americas
+Falkland Islands (Malvinas)	South America	Americas
+French Guiana	South America	Americas
+Guyana	South America	Americas
+Paraguay	South America	Americas
+Peru	South America	Americas
+South Georgia and the South Sandwich Islands	South America	Americas
+Suriname	South America	Americas
+Uruguay	South America	Americas
+Venezuela (Bolivarian Republic of)	South America	Americas
+Bermuda	Northern America	Americas
+Canada	Northern America	Americas
+Greenland	Northern America	Americas
+Saint Pierre and Miquelon	Northern America	Americas
+United States of America	Northern America	Americas
+Antarctica	—	Antarctica
+Kazakhstan	Central Asia	Asia
+Kyrgyzstan	Central Asia	Asia
+Tajikistan	Central Asia	Asia
+Turkmenistan	Central Asia	Asia
+Uzbekistan	Central Asia	Asia
+China	Eastern Asia	Asia
+China, Hong Kong Special Administrative Region	Eastern Asia	Asia
+China, Macao Special Administrative Region	Eastern Asia	Asia
+Democratic People's Republic of Korea [North Korea]	Eastern Asia	Asia
+Japan	Eastern Asia	Asia
+Mongolia	Eastern Asia	Asia
+Republic of Korea [South Korea]	Eastern Asia	Asia
+Brunei Darussalam	South-eastern Asia	Asia
+Cambodia	South-eastern Asia	Asia
+Indonesia	South-eastern Asia	Asia
+Lao People's Democratic Republic	South-eastern Asia	Asia
+Malaysia	South-eastern Asia	Asia
+Myanmar [Burma]	South-eastern Asia	Asia
+Philippines	South-eastern Asia	Asia
+Singapore	South-eastern Asia	Asia
+Thailand	South-eastern Asia	Asia
+Timor-Leste [East Timor]	South-eastern Asia	Asia
+Viet Nam	South-eastern Asia	Asia
+Islamic Republic of Afghanistan	Southern Asia	Asia
+Bangladesh	Southern Asia	Asia
+Bhutan	Southern Asia	Asia
+India	Southern Asia	Asia
+Iran (Islamic Republic of)	Southern Asia	Asia
+Maldives	Southern Asia	Asia
+Nepal	Southern Asia	Asia
+Pakistan	Southern Asia	Asia
+Sri Lanka	Southern Asia	Asia
+Armenia	Western Asia	Asia
+Azerbaijan	Western Asia	Asia
+Bahrain	Western Asia	Asia
+Cyprus	Western Asia	Asia
+Georgia	Western Asia	Asia
+Iraq	Western Asia	Asia
+Israel	Western Asia	Asia
+Jordan	Western Asia	Asia
+Kuwait	Western Asia	Asia
+Lebanon	Western Asia	Asia
+Oman	Western Asia	Asia
+Qatar	Western Asia	Asia
+Saudi Arabia	Western Asia	Asia
+State of Palestine	Western Asia	Asia
+Syrian Arab Republic	Western Asia	Asia
+Türkiye	Western Asia	Asia
+United Arab Emirates	Western Asia	Asia
+Yemen	Western Asia	Asia
+Belarus	Eastern Europe	Europe
+Bulgaria	Eastern Europe	Europe
+Czechia [Czech Republic]	Eastern Europe	Europe
+Hungary	Eastern Europe	Europe
+Poland	Eastern Europe	Europe
+Republic of Moldova	Eastern Europe	Europe
+Romania	Eastern Europe	Europe
+Russian Federation	Eastern Europe	Europe
+Slovakia	Eastern Europe	Europe
+Ukraine	Eastern Europe	Europe
+Åland Islands	Northern Europe	Europe
+Denmark	Northern Europe	Europe
+Estonia	Northern Europe	Europe
+Faroe Islands	Northern Europe	Europe
+Finland	Northern Europe	Europe
+Guernsey	Northern Europe	Europe
+Iceland	Northern Europe	Europe
+Ireland	Northern Europe	Europe
+Isle of Man	Northern Europe	Europe
+Jersey	Northern Europe	Europe
+Latvia	Northern Europe	Europe
+Lithuania	Northern Europe	Europe
+Norway	Northern Europe	Europe
+Svalbard and Jan Mayen Islands	Northern Europe	Europe
+Sweden	Northern Europe	Europe
+United Kingdom of Great Britain and Northern Ireland	Northern Europe	Europe
+Albania	Southern Europe	Europe
+Andorra	Southern Europe	Europe
+Bosnia and Herzegovina	Southern Europe	Europe
+Croatia	Southern Europe	Europe
+Gibraltar	Southern Europe	Europe
+Greece	Southern Europe	Europe
+Holy See [Vatican City]	Southern Europe	Europe
+Italy	Southern Europe	Europe
+Malta	Southern Europe	Europe
+Montenegro	Southern Europe	Europe
+North Macedonia	Southern Europe	Europe
+Portugal	Southern Europe	Europe
+San Marino	Southern Europe	Europe
+Serbia	Southern Europe	Europe
+Slovenia	Southern Europe	Europe
+Spain	Southern Europe	Europe
+Austria	Western Europe	Europe
+Belgium	Western Europe	Europe
+France [French Republic]	Western Europe	Europe
+Germany	Western Europe	Europe
+Liechtenstein	Western Europe	Europe
+Luxembourg	Western Europe	Europe
+Monaco	Western Europe	Europe
+Netherlands	Western Europe	Europe
+Switzerland	Western Europe	Europe
+Australia	Australia and New Zealand	Oceania
+Christmas Island	Australia and New Zealand	Oceania
+Cocos (Keeling) Islands	Australia and New Zealand	Oceania
+Heard Island and McDonald Islands	Australia and New Zealand	Oceania
+New Zealand	Australia and New Zealand	Oceania
+Norfolk Island	Australia and New Zealand	Oceania
+Fiji	Melanesia	Oceania
+New Caledonia	Melanesia	Oceania
+Papua New Guinea	Melanesia	Oceania
+Solomon Islands	Melanesia	Oceania
+Vanuatu	Melanesia	Oceania
+Guam	Micronesia	Oceania
+Kiribati	Micronesia	Oceania
+Marshall Islands	Micronesia	Oceania
+Micronesia (Federated States of)	Micronesia	Oceania
+Nauru	Micronesia	Oceania
+Northern Mariana Islands	Micronesia	Oceania
+Palau	Micronesia	Oceania
+United States Minor Outlying Islands	Micronesia	Oceania
+American Samoa	Polynesia	Oceania
+Cook Islands	Polynesia	Oceania
+French Polynesia	Polynesia	Oceania
+Niue	Polynesia	Oceania
+Pitcairn [Pitcairn Islands]	Polynesia	Oceania
+Samoa	Polynesia	Oceania
+Tokelau	Polynesia	Oceania
+Tonga	Polynesia	Oceania
+Tuvalu	Polynesia	Oceania
+Wallis and Futuna Islands	Polynesia	Oceania
+Country or Area	Geographical subregion	Continental region
+Taiwan Province of China  [Taiwan][note 3]	Eastern Asia	Asia
+Kosovo	Southern Europe	Europe
+Country or Area	Geographical subregion	Continental region
+Channel Islands	Northern Europe	Europe
+Sark	Northern Europe	Europe
